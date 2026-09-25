@@ -26,7 +26,7 @@ R, Stata
   with HIV in Lilongwe, Malawi: the prospective LighTen cohort study.
   *BMC Infectious Diseases*, 2026. [DOI](https://doi.org/10.1186/s12879-026-12675-2)
 - **Mahanani MR**, et al. Temporal shifts in ART regimens and metabolic outcomes in people
-  living with HIV: a systematic review and meta-analysis. *HIV Medicine*, 2026. [DOI](https://doi.org/10.1111/hiv.70260Digital Object Identifier)
+  living with HIV: a systematic review and meta-analysis. *HIV Medicine*, 2026. [DOI](https://doi.org/10.1111/hiv.70260Digital Object Identifier (DOI))
 - **Mahanani MR**, et al. Change in WHO cardiovascular risk prediction over three years in
   PLWH on efavirenz-based ART. *South Afr J HIV Med*, 2025. [DOI](https://doi.org/10.4102/sajhivmed.v26i1.1697)
 - **Mahanani MR**, et al. Comparison of female breast cancer between Russia and Germany:
