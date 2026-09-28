@@ -1,5 +1,3 @@
-# Dr.sc.hum. Melani R. Mahanani, MD, MScIH
-
 I am a clinical epidemiologist with a background in medicine and a PhD in epidemiology. I am interested in
 analysing longitudinal cohort data, population-based cancer registries and pooled
 evidence to understand how chronic diseases develop and change over time.
