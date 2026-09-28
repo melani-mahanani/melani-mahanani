@@ -14,7 +14,7 @@ evidence to understand how chronic diseases develop and change over time.
 ## Data & methods
 - Cohort studies (Germany, Malaysia, Indonesia, Malawi)
 - Population-based cancer registry data (Germany, Russia)
-- Causal inferences
+- Causal inference
 - Systematic reviews and meta-analyses
 - Longitudinal and time-trend analyses, risk prediction
 
