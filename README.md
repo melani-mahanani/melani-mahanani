@@ -1,4 +1,4 @@
-## Dr. Melani R. Mahanani
+# Dr. Melani R. Mahanani
 
 I am a clinical epidemiologist with a background in medicine and a PhD in epidemiology. I am interested in
 analysing longitudinal cohort data, population-based cancer registries and pooled
