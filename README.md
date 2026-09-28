@@ -1,8 +1,7 @@
 # Dr.sc.hum. Melani R. Mahanani, MD, MScIH
 
-Physician and epidemiologist at the **Heidelberg Institute of Global Health** and the
-**Center for Prevention and Digital Health (Mannheim)**, Heidelberg University.
-I analyse longitudinal cohort data, population-based cancer registries and pooled
+I am a clinical epidemiologist with a background in medicine and a PhD in epidemiology. I am interested in
+analysing longitudinal cohort data, population-based cancer registries and pooled
 evidence to understand how chronic diseases develop and change over time.
 
 ## Research interests
@@ -38,6 +37,3 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=B9W45qcAAA
 
 ## Teaching
 Biostatistics and Noncommunicable Diseases modules, MSc International Health, Heidelberg University
-
-## Contact
-mahanani.mr@gmail.com
