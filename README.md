@@ -12,8 +12,9 @@ evidence to understand how chronic diseases develop and change over time.
 - Reproducible analysis of observational health data
 
 ## Data & methods
-- Prospective cohort studies (Germany, Malaysia, Indonesia, Malawi)
+- Cohort studies (Germany, Malaysia, Indonesia, Malawi)
 - Population-based cancer registry data (Germany, Russia)
+- Causal inferences
 - Systematic reviews and meta-analyses
 - Longitudinal and time-trend analyses, risk prediction
 
